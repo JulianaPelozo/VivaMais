@@ -1,0 +1,26 @@
+body.bg-gradient {
+  background: linear-gradient(to bottom, #cfcfcf, #4db8ff);
+}
+
+.logo-text {
+  font-size: 64px;
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.3);
+}
+
+.logo-img {
+  max-width: 500px;
+  height: auto;
+}
+
+.left-side {
+  background: linear-gradient(135deg, #d6e8ff, #fbfdff);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 2rem;
+}
+.left-side h1 {
+  color: white;
+}
+
